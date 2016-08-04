@@ -1,0 +1,34 @@
+_repo: Beyond_2453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: One of the most prolific and respected authors of the early twentieth
+  century, John Galsworthy was awarded the Nobel Prize in Literature in 1932. Although
+  not as well-known as the five novels that comprise his enduringly popular Forsyte
+  Saga, Beyond displays Galsworthy's fiction-writing prowess at its best.
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Upper class families -- England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- GITenberg
+title: Beyond
+url: http://www.gutenberg.org/ebooks/2453
