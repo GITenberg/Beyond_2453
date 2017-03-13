@@ -1,5 +1,8 @@
 _repo: Beyond_2453
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -13,6 +16,8 @@ description: One of the most prolific and respected authors of the early twentie
   century, John Galsworthy was awarded the Nobel Prize in Literature in 1932. Although
   not as well-known as the five novels that comprise his enduringly popular Forsyte
   Saga, Beyond displays Galsworthy's fiction-writing prowess at its best.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2453#Beyond
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
